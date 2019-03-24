@@ -4,5 +4,10 @@ body {
 
 footer {
   background-color: black;
-  
+
+}
+
+.logo_rod {
+    max-height: 4em;
+    font-size: 15%;
 }
