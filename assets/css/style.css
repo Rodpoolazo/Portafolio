@@ -1,12 +1,5 @@
 body {
   font-family: 'Raleway', sans-serif;
-<<<<<<< HEAD
-}
-
-footer {
-  background-color: black;
-  
-=======
   font-weight: 400;
 }
 
@@ -27,5 +20,4 @@ font-weight: 700;
 .logo_rod {
     max-height: 4em;
     font-size: 15%;
->>>>>>> f098c5740854833194dd3bd8e875a19eab91513a
 }
